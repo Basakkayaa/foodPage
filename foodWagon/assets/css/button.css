@@ -1,0 +1,58 @@
+.btnDel{
+    width: 148px;
+    height: 38px;
+    border-radius: 8px;
+    background-color: #F172281A;
+    position:relative;
+    border: none;
+}
+
+.iconM{
+    position: relative;
+    left: 41px;
+    top: 3px;
+}
+
+.btn{
+    width: 56px;
+    height: 38px;
+    padding: 10px, 24px, 10px, 24px;
+    gap: 10px;
+    background-color: transparent;
+    border: none;
+    color: var(--p-color);
+}
+
+.btnFood{
+    width: 150px;
+    height: 49px;
+    border-radius: 8px;
+    /* background: linear-gradient(95.71deg, #FF7A7A -39.64%, #F75900 135.31%); */
+    background-color: var(--second-color);
+    color: white;
+    border: none;
+    cursor: pointer;
+
+}
+/* input */
+.inputAddres{
+    width: 520px;
+    height:49px;
+    border-radius: 8px;
+    border: none;
+    background-color: #F5F5F5;
+    padding-left: 35px;
+    outline: none;
+
+}
+
+.btnOrder{
+    width:100%;
+    height:40px;
+    background-color: var(--first-color);
+    border-radius: 8px;
+    border: none;
+    cursor: pointer;
+    color: white;
+    box-shadow: 0px 1px 1px 0px var(--second-color);
+}

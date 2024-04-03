@@ -1,0 +1,146 @@
+.logo{
+    width: Fixed (197px);
+    height: Hug (36.77px);
+    gap: 11.5px
+
+}
+.imgLogo{
+    width: Fixed (272px);
+    height: 36.77px;
+}
+
+.markerImg{
+    width: 14px;
+    height: 25px;
+}
+.searchFirst{
+    width: 18px;
+    height: 18px;
+}
+.user{
+    width: 16px;
+    height: 18px;
+    position: relative;
+    left: 10px;
+}
+
+
+.imgHeader{
+width: 100%;
+
+}
+
+.iconM{
+    position: relative;
+    left: 41px;
+    top: 3px;
+}
+
+.iconShop{
+    width: 16px;
+    height: 18px;
+}
+
+
+.loc{
+    width: 18px;
+    height: 34px;
+    position: relative;
+    left: 25px;
+    top: 10px;
+}
+
+.findIcon{
+    position: relative;
+    top: 15px;
+    left: 35px;
+    fill: white !important;
+    color: white !important ;
+}
+
+.card-img-top{
+ width: auto;
+ height: 200px;
+ border-radius:10px;
+}
+
+
+.iconRoad{
+    width: 86px;
+    height: 95px;
+}
+
+.imgPopular{
+    width: 76px;
+    height: 76px;
+    text-align: center;
+}
+
+.imgPopular1{
+    width: 76px;
+    height: 76px;
+    text-align: center;
+    display: none;
+}
+
+
+.iconPopular{
+    width: auto;
+    height: 156px;
+}
+
+.iconFeatured{
+    width: 236px;
+    height: 190px;
+}
+
+.imgSearch{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+.iconComp{
+    width: 100px;
+    height: 80px;
+}
+
+.img{
+    width: 250px;
+    /* height: 250px; */
+}
+.imgApp{
+    width: 20px;
+    height: 20px;
+    position: relative;
+    left: 30px;
+    top: 15px;
+}
+
+.btnApp{
+
+    width: 150px;
+    height: 30px;
+    border-radius: 8px;
+    border: none;
+    background-color: white;
+    padding-top: 12px;
+    box-shadow: var(--first-color)1px 1px 1px;
+}
+.bgImg{
+    background-image: url(/assets/img/bg.png);
+    width: 100%;
+    background-repeat: no-repeat;
+    height: 281px;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.iconStar{
+    width: 25px;
+    height: 25px;
+}
+

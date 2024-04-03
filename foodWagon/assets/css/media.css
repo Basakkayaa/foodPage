@@ -1,0 +1,59 @@
+@media screen and (max-width: 950px) {
+    html{
+        font-size:small;
+
+    }
+header>.container{
+        display: flex;
+        flex-direction: column;
+        width: -webkit-fill-available;
+    }
+
+    #articleSection>.container{
+        display: flex;
+       align-items: center;
+    }
+    #articleSection>.container>.box{
+        display: block;
+        width: 500px;
+    }
+    #articleSection>.container>.box>.card>.card-img-top{
+        height: 410px;
+    }
+    .imgPopular1{
+        display:block;
+    }
+    #articleSection>.container>.box>.card:not(:first-child){
+        display: none;
+    }
+    #productSection>.container>.boxRoad{
+        display: flex;
+        flex-direction: column;
+        font-size: 29px;
+    }
+
+    #popularSection>.container{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    .cardPopular:not(:first-child){
+
+    }
+
+    #featuredSection>.container{
+
+    }
+
+    #searchSection>.container{
+        display: flex;
+        align-items: center;
+    }
+    .searchHead{
+        display: none;
+    }
+    .boxSearchFood:not(:first-child){
+        display: none;
+    }
+}
